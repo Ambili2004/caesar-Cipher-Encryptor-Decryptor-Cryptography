@@ -81,22 +81,6 @@ Tries all **25 possible shifts** and prints the results so you can visually iden
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/caesar-cipher-encryptor-decryptor.git
-```
-
-2. Navigate into the project folder:
-```bash
-cd caesar-cipher-encryptor-decryptor
-```
-
-3. Run the script:
-```bash
-python caesar_cipher.py
-```
-
----
 
 ## 💻 Usage
 
@@ -183,18 +167,5 @@ For modern encryption, consider algorithms like **AES**, **RSA**, or **ChaCha20*
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
+## 👤 Author - @Ambili2004
 > Built with ❤️ using Python — for learning cryptography fundamentals.
