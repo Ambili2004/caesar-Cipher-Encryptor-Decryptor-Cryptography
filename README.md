@@ -169,5 +169,5 @@ For modern encryption, consider algorithms like **AES**, **RSA**, or **ChaCha20*
 
 ---
 
-## 👤 Author - @Ambili2004
+## 👤 Author 
 > Built with ❤️ using Python — for learning cryptography fundamentals.
